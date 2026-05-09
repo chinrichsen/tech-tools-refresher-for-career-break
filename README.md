@@ -1,4 +1,4 @@
-# 21‑Day Tech Refresher for Career Break Returners
+# 21‑Day Tech Refresher for Career Break Returners# 21‑Day Tech Refresher for Career Break Returners
 
 A guided, practical, and honest learning space for professionals who already know tools like Python, SQL, and BI platforms, but feel **rusty** after time away from formal work.
 
@@ -11,6 +11,35 @@ Each tool in this repo follows a **21‑day refresher**:
 - Day 21: interview preparation, patterns, and storytelling for that tool  
 
 The project is also meant to be **built in public**. Each 21‑day track is a small, visible artifact on GitHub, while the main ideas and lessons can be shared as LinkedIn posts. This turns the refresher into both a **personal skill‑building plan** and a **public portfolio story** around returning to technical work after a break.
+
+## Available & Planned Tracks
+
+### Core programming and analysis
+1. **Python** (Pandas/NumPy focus)
+2. **SQL** (multi-flavor)
+   - PostgreSQL (open-source/analytics standard)
+   - SQL Server (T-SQL for enterprise/AML)
+   - BigQuery (cloud/serverless analytics)
+3. **R**
+
+### Spreadsheets and scripting
+4. **Excel** (formulas, pivots, charts)
+5. **Google Sheets**
+6. **VBA** (Excel automation)
+
+### BI, dashboards, and reporting
+7. **Power BI**
+8. **Tableau**
+9. **Looker Studio**
+
+### Data preparation and automation
+10. **Power Query** (ETL in Excel/Power BI)
+11. **Power Automate**
+
+### Version control (essential)
+12. **Git & GitHub**
+
+**First Wave Priority:** Python → SQL → Power BI → Excel + Power Query
 
 ---
 
@@ -72,6 +101,7 @@ Knowing a tool is not enough. It is also necessary to **explain** what was learn
 
 People returning from caregiving, illness, parental leave, or other demanding circumstances often cannot commit to a rigid full‑time curriculum. Each track is designed to be completed in **manageable daily sessions**.
 
+
 ---
 
 ## Repository structure
@@ -91,6 +121,9 @@ Example (Python & Pandas):
   - `day-21-interview`: common Python/Pandas interview patterns and mock questions  
 
 Other tools (for example SQL, Power BI, Excel, or dbt) follow the same 21‑day shape, adapted to that ecosystem.
+
+---
+
 
 ---
 
@@ -114,7 +147,7 @@ Every day in a 21‑day track follows the same rhythm:
    A brief note on what felt easy, what felt rusty, and what to revisit.
 
 6. **Optional public sharing**  
-   Turning the day’s insight into a short LinkedIn update or portfolio note.
+   Turning the day's insight into a short LinkedIn update or portfolio note.
 
 This repeated **lesson → practice → feedback → reflection** cycle is especially effective for refreshers because it turns passive recognition back into **active recall** and applied execution.
 
@@ -149,4 +182,8 @@ This project differs from many beginner tutorials in tone and pacing:
 
 The aim is not a full restart; it is a **structured bridge** back into confident technical work.
 
+---
+
+**Created by Carlos Hinrichsen | JAM Labs®**  
+[LinkedIn](https://www.linkedin.com/in/cehinrichsen/) 
 

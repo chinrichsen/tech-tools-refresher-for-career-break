@@ -1,4 +1,4 @@
-# 21‑Day Tech Refresher for Career Break Returners# 21‑Day Tech Refresher for Career Break Returners
+# 21‑Day Tech Refresher for Career Break Returners
 
 A guided, practical, and honest learning space for professionals who already know tools like Python, SQL, and BI platforms, but feel **rusty** after time away from formal work.
 
